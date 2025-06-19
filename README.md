@@ -16,5 +16,5 @@ I specialize in integrating technologies like **LLMs (GPT, Azure OpenAI)**, **Py
 - LangChain, OpenAI API, Hugging Face
 - Python, SQL, Docker, FastAPI, REST APIs
  
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigozayas)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigo-zayas-03a0a9299/)
 
