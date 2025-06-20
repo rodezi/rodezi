@@ -2,7 +2,7 @@
 
 I'm an AI Engineer focused on building practical, real-world AI solutions — from intelligent agents and workflow automation to data analysis and production-ready machine learning models.
 
-I specialize in integrating technologies like **LLMs (GPT, Azure OpenAI)**, **Python**, **n8n**, **LangChain**, **Airtable**, and **APIs** to deliver smart systems that solve real business problems.
+I specialize in integrating technologies like **LLMs**, **AI Agents**, **Python**, **n8n**, **LangChain**, **Airtable**, and **APIs** to deliver smart systems that solve real business problems.
 
 ### 💼 What I build:
 - 🤖 Intelligent agents for sales, customer support, and automated follow-ups
