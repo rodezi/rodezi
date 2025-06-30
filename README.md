@@ -2,7 +2,7 @@
 
 I'm an AI Engineer focused on building practical, real-world AI solutions — from intelligent agents and workflow automation to data analysis and production-ready machine learning models.
 
-I specialize in integrating technologies like **LLMs**, **AI Agents**, **Python**, **n8n**, **LangChain**, **Airtable**, and **APIs** to deliver smart systems that solve real business problems.
+I specialize in integrating technologies like **LLMs**, **AI Agents**, and different **APIs** to deliver smart systems that solve real business problems.
 
 ### 💼 What I build:
 - 🤖 Intelligent agents for sales, customer support, and automated follow-ups
@@ -13,7 +13,7 @@ I specialize in integrating technologies like **LLMs**, **AI Agents**, **Python*
 ### 🚀 Certifications & Skills:
 - Microsoft Azure AI Engineer Associate 
 - AWS Cloud Practitioner 
-- LangChain, OpenAI API, Hugging Face
+- LangChain, Langgraph, n8n,  OpenAI API, Hugging Face
 - Python, Javascript, SQL, Docker, FastAPI, REST APIs
  
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigo-zayas-03a0a9299/)
