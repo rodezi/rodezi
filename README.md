@@ -4,17 +4,18 @@ I'm an AI Engineer focused on building practical, real-world AI solutions — fr
 
 I specialize in integrating technologies like **LLMs**, **AI Agents**, and different **APIs** to deliver smart systems that solve real business problems.
 
-### 💼 What I build:
-- 🤖 Intelligent agents for sales, customer support, and automated follow-ups
-- 📊 Data dashboards and behavior prediction models (Python + SQL)
-- 🧠 End-to-end GenAI and ML integrations deployed in real business flows
-- 🔗 Automation systems connected to CRMs like HubSpot, Airtable, Kommo & more.
+## 🚀 My Mission
 
-### 🚀 Certifications & Skills:
-- Microsoft Azure AI Engineer Associate 
-- AWS Cloud Practitioner 
-- LangChain, Langgraph, n8n,  OpenAI API, Hugging Face
-- Python, Javascript, SQL, Docker, FastAPI, REST APIs
+To design, build and deploy intelligent systems that solve real-world problems through applied AI. I'm especially interested in agentic workflows, knowledge-grounded chatbots, and real-time AI-powered customer support.
+
+## 💼 What I Build
+
+- 🤖 **AI Agents** — Intelligent agents for sales, customer support, and automated follow-ups  
+- 🧠 **ML & GenAI Solutions** — End-to-end machine learning and LLM integrations, applied to real-world business flows  
+- 📊 **Data Tools** — Dashboards and behavior prediction models using Python & SQL  
+- 🔄 **Automation Systems** — Custom flows integrated with CRMs like HubSpot, Airtable, Kommo, and more  
+- ⚙️ **Backend Infrastructure** — FastAPI-based services, Redis, Pinecone, Docker, and scalable architectures
+
  
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigo-zayas-03a0a9299/)
 
