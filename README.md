@@ -46,5 +46,6 @@ To design, build, and deploy **intelligent systems** that simplify workflows, em
 ---
 
 👉 Always exploring **cutting-edge AI frameworks** while keeping my focus on **business-driven results**. 
+
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigo-zayas-03a0a9299/)
 
