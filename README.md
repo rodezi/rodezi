@@ -41,6 +41,7 @@ To design, build, and deploy **intelligent systems** that simplify workflows, em
 * **Automation:** Make, n8n, Zapier, CRM integrations
 * **Data:** Python (Pandas, NumPy), SQL, Data Visualization, Predictive Analytics
 * **Backend:** FastAPI, REST APIs, Docker, Redis, Pinecone
+* **Cloud:** GCP, AWS
 * **Consulting:** Business analysis, workflow design, and AI adoption strategies
 
 ---
