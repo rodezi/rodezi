@@ -28,7 +28,7 @@ To design, build, and deploy **intelligent systems** that simplify workflows, em
   Predictive models, interactive dashboards, and business intelligence powered by Python, SQL & cloud services.
 
 * 🔄 **Automation & Integrations**
-  Scalable automations with CRMs (HubSpot, Kommo, Airtable, etc.) and tools like **Make, Zapier, n8n**.
+  Scalable automations with CRMs and tools like **n8n, Agent Builder, Make and Zapier**.
 
 * ⚙️ **Backend & Infrastructure**
   FastAPI microservices, Dockerized environments, vector databases (Pinecone, Redis), and cloud-native deployments.
