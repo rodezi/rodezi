@@ -1,37 +1,26 @@
-**AI Engineer · Founder @ [Realtek](https://realtekmx.com)**  
-Building AI systems that actually ship — not demos.
+AI Engineer · Automation Architect · Voice AI Systems
+Querétaro, MX → Building for Latin America
 
----
+I ship production AI systems that replace manual ops at scale.
+Not demos. Not proofs of concept. Systems with real clients.
 
-I design and deploy production-grade automation for businesses in Mexico.
-Currently focused on **AI voice agents**, **agentic workflows**, and **backend systems**
-that replace repetitive ops and scale without adding headcount.
+── What I've built ──
+🎙️ Voice agent pipeline → inbound call to booked appointment, zero human touch
+   Retell AI · n8n · FastAPI · Twilio · Cal.com
 
-**Flagship product:** Sofía — an AI voice receptionist that qualifies leads,
-answers calls, and books appointments for real estate agencies. Built on
-Retell AI + n8n + FastAPI + Cal.com.
+📬 Email-to-API order processor → Gmail Pub/Sub → LLM extraction → deterministic JSON → SAI API
+   n8n · Claude · Python · Pub/Sub webhooks
 
----
+🤖 Telegram invoice parser → CFDI photo to structured Google Sheets in seconds
+   n8n · Claude Vision · Telegram Bot API
 
-## Stack
+🔄 Multi-agent agentic workflows → lead follow-up, CRM sync, task orchestration
+   LangGraph · GoHighLevel · Airtable · FastAPI
 
-**AI/Agents:** LangGraph · LangChain · Retell AI · OpenAI · Anthropic · RAG  
-**Automation:** n8n · GoHighLevel · Twilio · Make  
-**Backend:** FastAPI · Python · Docker · Redis · Pinecone  
-**Cloud:** GCP · AWS  
-**Data:** Pandas · SQL · Airtable
+── Stack ──
+Agents: LangGraph · LangChain · Retell AI · OpenAI · Anthropic · RAG · MCP
+Automation: n8n · Make · Twilio · GoHighLevel
+Backend: FastAPI · Python · Docker · Redis
+Cloud: GCP · AWS · Railway
 
----
-
-## What I build
-
-- 🎙️ AI voice agents for lead qualification & appointment booking  
-- 🔄 Agentic workflows that replace manual back-office ops  
-- 📬 Email/order processing pipelines with LLM + deterministic logic  
-- ⚙️ FastAPI microservices connecting AI tools to existing business systems
-
----
-
-📍 Querétaro, MX  
-🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-zayas-e/) · 
-[Realtek](https://realtekmx.com)
+🔗 LinkedIn · realtekmx.com
