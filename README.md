@@ -1,26 +1,7 @@
-AI Engineer · Automation Architect · Voice AI Systems
-Querétaro, MX → Building for Latin America
+Building intelligent systems at the intersection of software engineering, automation, and artificial intelligence.
 
-I ship production AI systems that replace manual ops at scale.
-Not demos. Not proofs of concept. Systems with real clients.
+My work focuses on designing end-to-end solutions that combine cloud technologies, APIs, workflow automation, LLMs, retrieval systems, and agent-based architectures to solve real business problems.
 
-── What I've built ──
-🎙️ Voice agent pipeline → inbound call to booked appointment, zero human touch
-   Retell AI · n8n · FastAPI · Twilio · Cal.com
+I enjoy turning complex operational processes into scalable software, whether through automation, AI-powered applications, or intelligent decision-support systems.
 
-📬 Email-to-API order processor → Gmail Pub/Sub → LLM extraction → deterministic JSON → SAI API
-   n8n · Claude · Python · Pub/Sub webhooks
-
-🤖 Telegram invoice parser → CFDI photo to structured Google Sheets in seconds
-   n8n · Claude Vision · Telegram Bot API
-
-🔄 Multi-agent agentic workflows → lead follow-up, CRM sync, task orchestration
-   LangGraph · GoHighLevel · Airtable · FastAPI
-
-── Stack ──
-Agents: LangGraph · LangChain · Retell AI · OpenAI · Anthropic · RAG · MCP
-Automation: n8n · Make · Twilio · GoHighLevel
-Backend: FastAPI · Python · Docker · Redis
-Cloud: GCP · AWS · Railway
-
-🔗 LinkedIn · realtekmx.com
+Currently expanding my expertise across AI Engineering, system design, cloud infrastructure and production-grade AI applications.
