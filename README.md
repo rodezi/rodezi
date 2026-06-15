@@ -1,7 +1,7 @@
-Building intelligent systems at the intersection of software engineering, automation, and artificial intelligence.
+AI Operations Specialist building intelligent, scalable systems at the intersection of software engineering, automation, and artificial intelligence.
 
-My work focuses on designing end-to-end solutions that combine cloud technologies, APIs, workflow automation, LLMs, retrieval systems, and agent-based architectures to solve real business problems.
+I design and operationalize end-to-end AI solutions using cloud technologies, APIs, workflow automation, LLMs, retrieval systems, and agent-based architectures. My focus is not only on building AI applications, but also on making them reliable, measurable, maintainable, and useful in real business environments.
 
-I enjoy turning complex operational processes into scalable software, whether through automation, AI-powered applications, or intelligent decision-support systems.
+I enjoy transforming complex operational processes into scalable workflows, AI-powered applications, and decision-support systems. This includes improving system performance, automating repetitive work, designing human-in-the-loop processes, integrating AI into existing operations, and establishing the monitoring and controls needed for production use.
 
-Currently expanding my expertise across AI Engineering, system design, cloud infrastructure and production-grade AI applications.
+Currently expanding my expertise in AI operations, AI engineering, system design, cloud infrastructure, model evaluation, observability, and production-grade AI applications.
