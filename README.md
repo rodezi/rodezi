@@ -104,7 +104,7 @@ I can support teams through:
 
 I am available for selected implementation projects and technical partnerships with agencies, consulting firms, and operations teams.
 
-**LinkedIn:** [linkedin.com/in/rodrigo-zayas-03a0a9299](https://www.linkedin.com/in/rodrigo-zayas-03a0a9299)
+**LinkedIn:** [linkedin.com/in/rodrigo-zayas-03a0a9299](https://www.linkedin.com/in/rodrigo-zayas-e)
 
 **Email:** [rodezayas@gmail.com](mailto:rodezayas@gmail.com)
 
